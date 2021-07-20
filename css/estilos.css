@@ -1,0 +1,29 @@
+body {
+    background-image: url(../imagenes/gatito.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+color:white;
+margin-left: 300px;
+margin-right: 250px;
+font-family: 'Oswald', sans-serif;
+
+}
+
+p{
+    text-align: justify;
+}
+
+.alerta {
+    background-color:khaki ;
+    color:red;
+    border: 1px solid red;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+}
+
+.centrado {
+    text-align: center;
+}
